@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large / generated data (adjust as needed once you know what should be tracked)
+*.log
+*.tmp
+
+# Model checkpoints/weights (never commit these)
+*.bin
+*.safetensors
+*.pt
