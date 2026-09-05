@@ -1,0 +1,4 @@
+Constraint,Passage,Total_Characters,Total_Words,Total_Paragraphs,Total_Sentences,Forbidden_e,Total_Forbidden,Compliant
+e,passage_short.txt,11047,2018,28,131,1051,1051,False
+e,passage_medium.txt,27499,5016,102,361,2571,2571,False
+e,passage_long.txt,46383,8545,260,642,4394,4394,False

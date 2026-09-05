@@ -1,0 +1,4 @@
+Passage,Target_Words,Actual_Words,Difference,Output_File
+short,2000,2018,18,/netscratch/efirat/thesis/data/processed/passage_short.txt
+medium,5000,5017,17,/netscratch/efirat/thesis/data/processed/passage_medium.txt
+long,8545,8545,0,/netscratch/efirat/thesis/data/processed/passage_long.txt

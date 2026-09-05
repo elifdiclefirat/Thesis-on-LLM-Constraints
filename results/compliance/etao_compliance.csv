@@ -1,0 +1,4 @@
+Constraint,Passage,Total_Characters,Total_Words,Total_Paragraphs,Total_Sentences,Forbidden_e,Forbidden_t,Forbidden_a,Forbidden_o,Total_Forbidden,Compliant
+etao,passage_short.txt,11037,2018,28,131,959,721,704,665,3049,False
+etao,passage_medium.txt,27347,5017,102,353,2310,1619,1619,1707,7255,False
+etao,passage_long.txt,46307,8544,260,642,4345,3157,2839,2802,13143,False
