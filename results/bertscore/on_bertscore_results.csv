@@ -1,0 +1,4 @@
+Constraint,Passage,Model,Precision,Recall,F1
+on,short,roberta-large,1.0,1.0,1.0
+on,medium,roberta-large,1.0,1.0,1.0
+on,long,roberta-large,1.0,1.0,1.0

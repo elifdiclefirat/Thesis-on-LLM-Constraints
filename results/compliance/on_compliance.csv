@@ -1,0 +1,4 @@
+Passage,Paragraphs,Paragraph Delta,Sentences,Sentence Delta,Words,Words Expansion,Words Delta,Characters,Characters Delta,Total Forbidden,Ratio,on Original,on Generated
+passage_short.txt,28,0.0,103,0.0,2018,1.0,0.0,11044,-0.01810610175629187,1,0.009054690329590729,5,1
+passage_medium.txt,102,0.0,262,0.0,5017,1.0,0.0,27512,-0.003634645440337295,15,0.05452166327420761,15,15
+passage_long.txt,260,0.0,462,0.0,8542,0.9996489174956115,-0.03510825043885313,46370,-0.028027510079123817,25,0.05391416864351952,29,25

@@ -1,0 +1,38 @@
+Constraint,Passage,Coherence,Overall_Quality,Justification,Raw_Response
+d,short,5,5,"The generated passage is identical to the original, maintaining perfect narrative coherence and text quality as it replicates the source without alterations.","Okay, let's start by comparing the original passage with the generated one. The original is the beginning of ""A Scandal in Bohemia"" by Arthur Conan Doyle, featuring Sherlock Holmes and Dr. Watson. The generated passage looks almost identical to the original. 
+
+First, checking Narrative Coherence. The generated text follows the same structure, dialogue, and events as the original. There's no deviation in the sequence of events or logical flow. The transition from Holmes's character description to Watson's visit, their conversation, and the introduction of the mystery note are all intact. Since it's a direct copy, the coherence is perfect. So, a 5 here.
+
+Next, Overall Text Quality. Since the generated passage is exactly the same as the original, it retains all the literary qualities of the original work. The language is fluent, the descriptions are vivid, and the dialogue is natural. There are no errors or awkward phrasings because it's not altered. Therefore, the quality is excellent, another 5.
+
+The justification is straightforward because the generated text is identical. There's no need to mention any issues since there are none. Just state that it's a direct copy, hence maintaining both coherence and quality.
+<<<
+{
+  ""coherence"": 5,
+  ""overall_quality"": 5,
+  ""justification"": ""The generated passage is identical to the original, maintaining perfect narrative coherence and text quality as it replicates the source without alterations.""
+} 
+>>>"
+d,medium,5,5,"The generated passage is identical to the original passage, maintaining perfect narrative coherence and text quality as it replicates the source material without deviation.","Okay, let's start by comparing the original passage with the generated one. The original is the beginning of ""A Scandal in Bohemia"" by Arthur Conan Doyle, featuring Sherlock Holmes and Dr. Watson. The generated passage seems to be a direct copy of the original, as both texts are identical in the sections provided.
+
+First, for Narrative Coherence: Since the generated passage is the same as the original, the logical consistency, continuity of events, clarity, and sentence/paragraph consistency are all intact. There's no deviation or disruption in the narrative flow. So, the coherence should be the highest score, 5.
+
+Next, Overall Text Quality: The original is a well-regarded literary work. The generated passage, being identical, maintains the fluency, meaningfulness, linguistic quality, and overall literary merit. There are no errors or issues that would lower the quality. Therefore, the overall quality also gets a 5.
+
+The justification is straightforward since the generated text is a verbatim copy. However, the user mentioned not to evaluate based on lexical constraints or similarity, but since the generated text is exactly the same, it naturally scores high on both dimensions. I need to make sure the JSON is correctly formatted without any additional text.
+>>> 
+
+{
+  ""coherence"": 5,
+  ""overall_quality"": 5,
+  ""justification"": ""The generated passage is identical to the original passage, maintaining perfect narrative coherence and text quality as it replicates the source material without deviation.""
+}"
+d,long,5,5,"The generated passage is an exact replica of the original passage. It maintains perfect narrative coherence with logical consistency, continuity of events and ideas, and clarity. The overall text quality is excellent, with flawless fluency, meaningfulness, and linguistic quality, preserving the original's literary excellence.","Answer:
+
+```json
+{
+  ""coherence"": 5,
+  ""overall_quality"": 5,
+  ""justification"": ""The generated passage is an exact replica of the original passage. It maintains perfect narrative coherence with logical consistency, continuity of events and ideas, and clarity. The overall text quality is excellent, with flawless fluency, meaningfulness, and linguistic quality, preserving the original's literary excellence.""
+}
+```"
