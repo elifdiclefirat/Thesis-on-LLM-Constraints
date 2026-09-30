@@ -88,6 +88,9 @@ This allows cases where constraint realisation and preservation of the source co
 │   ├── inspect_story.py
 │   └── prepare_passages.py
 │
+├── assets/
+│   └── thesis_pipeline.png
+│
 ├── data/
 │   ├── source/
 │   └── processed/
