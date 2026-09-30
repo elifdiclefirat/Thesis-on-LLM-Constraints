@@ -25,43 +25,9 @@ The main research question is:
 
 ## Experimental Pipeline
 
-```text
-                     A Scandal in Bohemia
-                              │
-                              ▼
-                    Passage Preparation
-                              │
-                 ┌────────────┴────────────┐
-                 │                         │
-          Short / Medium / Long      Lexical Constraints
-                                           │
-                         E → ET → ETA → ETAO → ETAOI → ETAOIN
-                                           │
-                                      + D / ON
-                                           │
-                                           ▼
-                                     Qwen3-32B
-                                           │
-                                           ▼
-                              Generated Long-Form Text
-                                           │
-                ┌──────────────────────────┼─────────────────────────┐
-                ▼                          ▼                         ▼
-        Structure Analysis        Constraint Compliance       Automatic Metrics
-                                                              │
-                                                   ┌──────────┼──────────┐
-                                                   ▼          ▼          ▼
-                                               BERTScore   MATTR   Readability
-                └──────────────────────────┬─────────────────────────┘
-                                           ▼
-                                  LLM-as-a-Judge
-                                           │
-                                           ▼
-                              Qualitative Assessment
-                                           │
-                                           ▼
-                              Robustness Analysis
-```
+The experimental workflow consists of source-text preparation, progressive lexical constraint generation, and multi-dimensional evaluation.
+
+![Experimental pipeline](assets/thesis_pipeline.png)
 
 ## Evaluation
 
